@@ -1,23 +1,19 @@
-import logo from './logo.svg';
+import react, { useState } from "react";
+import Header from "./components/Header/Header";
+import Content from "./containers/Content/Content";
 import './App.css';
+import {
+  Container
+} from "react-bootstrap";
 
 function App() {
+  const [LoggedIn, setLoggedIn] = useState(true)
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div>
+      <Container fluid className="HeaderBox">
+        <Header loggedIn={LoggedIn} switch={setLoggedIn}/>
+      </Container>
+      <Content loggedIn={LoggedIn}/>
     </div>
   );
 }
