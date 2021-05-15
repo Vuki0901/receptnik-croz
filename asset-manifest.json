@@ -1,0 +1,34 @@
+{
+  "files": {
+    "static/js/0.5890680f.chunk.js": "/receptnik-croz/static/js/0.5890680f.chunk.js",
+    "static/js/0.5890680f.chunk.js.map": "/receptnik-croz/static/js/0.5890680f.chunk.js.map",
+    "main.css": "/receptnik-croz/static/css/main.3fd19818.chunk.css",
+    "main.js": "/receptnik-croz/static/js/main.dc799034.chunk.js",
+    "main.js.map": "/receptnik-croz/static/js/main.dc799034.chunk.js.map",
+    "runtime-main.js": "/receptnik-croz/static/js/runtime-main.695b20e7.js",
+    "runtime-main.js.map": "/receptnik-croz/static/js/runtime-main.695b20e7.js.map",
+    "static/css/3.dabc2da7.chunk.css": "/receptnik-croz/static/css/3.dabc2da7.chunk.css",
+    "static/js/3.6ffef960.chunk.js": "/receptnik-croz/static/js/3.6ffef960.chunk.js",
+    "static/js/3.6ffef960.chunk.js.map": "/receptnik-croz/static/js/3.6ffef960.chunk.js.map",
+    "static/js/4.ee7a2fd5.chunk.js": "/receptnik-croz/static/js/4.ee7a2fd5.chunk.js",
+    "static/js/4.ee7a2fd5.chunk.js.map": "/receptnik-croz/static/js/4.ee7a2fd5.chunk.js.map",
+    "static/js/5.07a688ea.chunk.js": "/receptnik-croz/static/js/5.07a688ea.chunk.js",
+    "static/js/5.07a688ea.chunk.js.map": "/receptnik-croz/static/js/5.07a688ea.chunk.js.map",
+    "static/js/6.8954896f.chunk.js": "/receptnik-croz/static/js/6.8954896f.chunk.js",
+    "static/js/6.8954896f.chunk.js.map": "/receptnik-croz/static/js/6.8954896f.chunk.js.map",
+    "static/js/7.75788995.chunk.js": "/receptnik-croz/static/js/7.75788995.chunk.js",
+    "static/js/7.75788995.chunk.js.map": "/receptnik-croz/static/js/7.75788995.chunk.js.map",
+    "index.html": "/receptnik-croz/index.html",
+    "static/css/3.dabc2da7.chunk.css.map": "/receptnik-croz/static/css/3.dabc2da7.chunk.css.map",
+    "static/css/main.3fd19818.chunk.css.map": "/receptnik-croz/static/css/main.3fd19818.chunk.css.map",
+    "static/js/3.6ffef960.chunk.js.LICENSE.txt": "/receptnik-croz/static/js/3.6ffef960.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/receptnik-croz/static/media/bg.601b1e15.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.695b20e7.js",
+    "static/css/3.dabc2da7.chunk.css",
+    "static/js/3.6ffef960.chunk.js",
+    "static/css/main.3fd19818.chunk.css",
+    "static/js/main.dc799034.chunk.js"
+  ]
+}
